@@ -5,14 +5,14 @@ Descripción
 Este proyecto permite registrar, consultar y administrar equipos tecnológicos de un colegio mediante el panel de administración de Django y una base de datos. El objetivo es reemplazar el registro manual en planillas por una solución web eficiente y centralizada.
 
 Enlace del repositorio
-https://github.com/usuario/repositorio
+https://github.com/Macaperalta35/inventarioEscolar/blob/main/README.md
 
 Instalación y uso
 Clona el repositorio:
 
 text
-git clone https://github.com/usuario/repositorio.git
-cd inventario_escolar
+git clone https://github.com/Macaperalta35/inventarioEscolar.git
+cd inventarioEscolar
 Instala las dependencias:
 
 text
@@ -45,4 +45,3 @@ ubicacion (CharField)
 
 Autor
 Macarena Peralta
-
